@@ -1,4 +1,4 @@
-#quick start of hrld
+#summary Get started with HRLD
 
 = Introduction =
 
