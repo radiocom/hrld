@@ -1,4 +1,4 @@
-#summary brief guides
+#summary A brief guide to HRLD
 
 = Introduction =
 
