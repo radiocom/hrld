@@ -1,0 +1,1 @@
+HRLD is a powerful Lua debugger running under Windows and .net platform. With it you can debug into all sorts of Lua scripts, whatever they are interpreted by a standard Lua debugger or by an Lua-embedded program.
